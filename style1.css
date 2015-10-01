@@ -1,0 +1,58 @@
+.sprite{
+	width: 1000px;
+	height: 1000px;
+	background-color: #fff;
+	border:2px solid #000;
+}
+.sprite:after{
+content: '';
+display: block;
+width: 50px;
+height: 50px;
+box-shadow: 
+500px 0px #000,
+450px 0px #000,
+400px 0px #000,
+350px 0px #000,
+300px 0px #000,
+250px 0px #000,
+550px 0px #000,
+600px 0px #000,
+650px 0px #000,
+700px 0px #000,
+200px 50px #000,
+150px 100px #000,
+150px 150px #000,
+150px 200px #000,
+150px 250px #000,
+150px 300px #000,
+150px 350px #000,
+150px 400px #000,
+150px 450px #000,
+150px 500px #000,
+750px 50px #000,
+800px 100px #000,
+800px 150px #000,
+800px 200px #000,
+800px 250px #000,
+800px 300px #000,
+800px 350px #000,
+800px 400px #000,
+800px 450px #000,
+800px 500px #000,
+200px 550px #000,
+750px 550px #000,
+500px 600px #000,
+450px 600px #000,
+400px 600px #000,
+350px 600px #000,
+300px 600px #000,
+250px 600px #000,
+550px 600px #000,
+600px 600px #000,
+650px 600px #000,
+700px 600px #000
+
+
+;
+}
